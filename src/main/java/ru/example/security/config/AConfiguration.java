@@ -1,4 +1,4 @@
-package ru.example.securitygovno.config;
+package ru.example.security.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

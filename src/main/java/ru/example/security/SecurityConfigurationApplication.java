@@ -1,8 +1,7 @@
-package ru.example.securitygovno;
+package ru.example.security;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 public class SecurityConfigurationApplication {

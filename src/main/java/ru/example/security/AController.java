@@ -1,4 +1,4 @@
-package ru.example.securitygovno;
+package ru.example.security;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
